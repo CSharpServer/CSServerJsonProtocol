@@ -1,4 +1,4 @@
-﻿{
+{
   "version": "1.0.0-*",
   "description": "CSServerJsonProtocol Class Library",
   "authors": [ "CPlover" ],
@@ -10,6 +10,6 @@
   },
   "dependencies": {
     "CSharpServerFrameworkAbstract": "1.0.0-*",
-    "Newtonsoft.Json": "7.0.1"
+    "Newtonsoft.Json": "8.0.2"
   }
 }
