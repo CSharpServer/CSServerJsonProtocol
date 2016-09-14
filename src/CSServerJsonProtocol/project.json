@@ -3,8 +3,8 @@
   "description": "CSServerJsonProtocol Class Library",
 
   "frameworks": {
-    "net451": {}
-    
+    "netcoreapp1.0": {}
+
   },
 
   "dependencies": {
